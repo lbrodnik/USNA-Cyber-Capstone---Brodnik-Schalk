@@ -17,7 +17,6 @@ The Core Flight System (cFS) is a generic flight software architecture framework
   `Scapy_DOS_attack.py`
 #### Targeted App Delete
   Sends a command to delete an app, can be used to delete the Command Ingest app so that the Satellite can no longer interpret packets <br />
-  `I_killed_everyone.py` <br />
   `Cyber_ASAT.py`
 #### Systematic Brute Force App Delete
   Sends a brute force style of packets, slowly deleting all apps on the system (up to 5 characters in name length) <br />
